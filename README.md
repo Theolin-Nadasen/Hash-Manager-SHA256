@@ -7,4 +7,4 @@ Creates and manages SHA256 hashes.
 * Create dictionary from hashes {word : hash}
 
 # Example
-![Preview] (https://github.com/P5YCH0x/Hash-Manager-SHA256/blob/main/preview.png)
+! [Preview] (https://github.com/P5YCH0x/Hash-Manager-SHA256/blob/main/preview.png)
